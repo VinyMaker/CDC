@@ -1,0 +1,22 @@
+ACRESCIMOS
+*p += 1; ou '++*p'; ou '*p = *p + 1';
+
+TAMANHOS
+'sizeof()' para o tamanho de uma variavel
+
+PONTEIROS
+'*' para valor e operações
+'&' manipular a variavel (sem operações), ou seja, atribuir seu valor a outra
+
+
+StepByStep/DIY:
+
+declara ponteiroparaalgumacoisa;
+declara algumacoisa;
+
+ponteiro=&algumacoisa;
+
+lêacoisa;
+fazaoperação;(normalmente) com *algumacoisa ou algumacoisa
+
+printaoperação;
