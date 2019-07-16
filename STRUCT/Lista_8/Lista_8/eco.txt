@@ -1,0 +1,69 @@
+TRABALHO AVALIATIVO III
+1. Em relação ao mercado de bens e serviços:
+a) apresente o conceito de PIB, diferenciando os bens finais dos bens intermediários;
+O PIB - Produto Interno Bruto - nada mais é do que a junção de todos os bens finais (produtos ou serviços) produzidos dada determinada região, vale lembrar que nele não estão incluídos os bens de consumo intermediários.
+Como dito acima, enquanto um bem final é o produto/serviço que terá como destino algum consumidor final do calculo são retirados os bens e/ou serviços que compuseram a fabricação/execução de um bem ou serviço,ou seja os bens intermediários. 
+Ex: Na venda de um projetor, devem ser descartados todos as peças que foram compradas para a fabricação dele, de forma que no cálculo fique apenas os produtos, de certa forma, indivíduais (lâmpada,carcaça,fios, etc.).
+
+b) apresente a formula das despesas e seus termos;
+
+Dada a visão a partir das despesas nacionais, obtem-se a formula U = C + I + G + X - M; em que há o consumo (C), investimento (I),gastos dos governo(G),exportações(X) e importações(M), respectivamente.
+> Consumo (C) constitui-se de todo o valor das despesas em diversas áreas na compra de bens e serviços finais.
+> Investimento (I) é o gasto em bens que geram aumento na capacidade de produção, em que futuramente, tendem a gerar renda. (Ex: compra de máquinas e equipamentos)
+> Gastos do Governo (G) é toda a transação realizada a partir de um dos três poderes (Executivo, Legislativo e Judiciário) para alguma empresa, estado ou município, vale lembrar que neste não estão incluídos as operações do BACEN.
+> Exportações (X) é a renda gerada pela venda de todo produto ou serviço nacional em território estrangeiro.
+> Importações (M) é toda a compra de algum produto ou serviço do exterior, é negativo, pois essa é uma renda “sem volta/vazada”.
+
+c) explique a diferença entre PIB real e PIB nominal;
+O PIB Real trata-se do cálculo à preços constantes do PIB de uma região de apenas um período, apenas um, pois isso tende a eliminar os efeitos que a inflação pode causar. Este, por sua vez é o mais recomendado para análises mais precisas.
+O PIB Nominal é o cálculo à preços recorrentes, ou seja, tem-se um produto e tem-se seu período de produção. Porém neste, a inflação pode influenciar por exemplo.
+
+d) o PIB pode ser usado como uma forma de medir o nível de bem-estar social e de desenvolvimento econômico de uma nação?
+	Apesar de ser usado como um sinalizador para saber se a população se beneficiou com a produção de seu país - dado o período, infelizmente, ele não deve ser utilizado com indicador de bem-estar social já que ele não engloba as desigualdades de renda, externalidades, qualidade e alguns tipos de transações.
+
+2. Sobre o nível de preços e inflação:
+a) em que consiste a taxa de inflação?
+Ela representa um aspecto do desempenho da macroeconomia de uma dada região, é uma variável que representa a orientação central da politica macroeconômica em que se estiver alta, pode indicar que a variação de preços de determinado bem ou serviço pode, também, estar alta, já que são relativamente diretamente proporcionais.
+b) quais as causas e consequências associadas a esse processo?
+Esse processo, como citado acima, acarreta na alta disparidade entre os preços de determinado produto dentre um período de tempo analisado. Ou seja, podendo ocorrer por oferta ou demanda, a inflação tende a causar aumento de preços, queda no poder de compra e, por consequência, gera aumento da desigualdade social.
+c) qual a importância de se entender os diferentes índices de preço disponíveis nos boletins estatísticos e econômicos?
+A importância consiste na compreensão da situação macroeconômica, bem como a própria manutenção da mesma, ou seja, entender os índices de preços de determinado produto/serviço a fim de otimizar seu processo produtivo por exemplo ou estimular sua produção ou exportação através de alguma medida.
+
+3. Sobre a relação que envolve o orçamento público, respectivamente, receita pública, gastos e arrecadação, responda:
+a) o que representa a política fiscal?
+Ela é uma parte da receita e da despesa do governo que será utilizada de modo alocativo, distributivo ou estabilizador. Esse tipo de política fiscal busca, basicamente, a estabilidade econômica através dos métodos citados anteriormente.
+
+b) quais os modelos ou regimes tributários disponíveis para aplicação? qual é usado no brasil?
+Elas podem ser progressivos, regressivos, proporcionais ou neutros.
+No caso do Brasil, a nossa estrutura dependente, em grande parte, da arrecadação de impostos sobre o consumo o que nos enquadra em um regime regressivo.
+.
+4. Sobre o mercado monetário, explique as questões abaixo:
+a) o que representa a política monetária?
+	É a política que, como o próprio nome cita, tem a responsabilidade de regular a moeda. Essa regulamentação envolve toda a moeda que está em circulação bem como taxas de juros e controle de oferta da própria moeda.
+
+b) quais as principais funções do BACEN?
+O BACEN tem como responsabilidade o monopólio de emissão, supervisionar o sistema financeiro, aplicar a política monetária e a política cambial e a manutenção das reservas de capital.
+
+
+
+5. Sobre a economia internacional:
+a) o que representa a taxa de câmbio? E, em que consiste a valorização ou desvalorização cambial?
+	Ela representa, quantitativamente, o quanto de uma moeda é necessário para se adquirir de outra. Ela engloba os conceitos já estudados de oferta e demanda, em que, quanto maior a oferta, maior os preços. a sua valorização consiste em aumentar o valor da própria moeda mantendo a sua oferta atual, não para os habitantes de um país, mas sim para quem desejar comprá-la no exterior de modo que importações ou exportações sejam afetadas, por exemplo. Já a desvalorização é inversamente proporcional.
+
+b) formas da politica cambial e qual modelo se utiliza no brasil?
+	Elas podem ser fixas - onde o valor da moeda não é influenciado por fatores externos, flutuantes - onde o valor da moeda é definido após a avaliação de algumas variáveis externas ou não flutuantes.
+	No caso do brasil: “Num regime de livre flutuação cambial como o adotado pelo Brasil em janeiro de 1999, não há um nível considerado ótimo para a taxa de câmbio. A atuação do BCB, nesse contexto, visa assegurar condições adequadas de formação de preços, evitando situações extremas de falta ou excesso de liquidez no mercado interbancário.” - Funções do BACEN (PDF - PVANET). 
+
+c) o que representa o balanço de pagamentos e balança comercial?
+O Balanço de Pagamentos busca sistematizar a receptação de riqueza por parte de um determinado país dependente do fornecimento de produtos e fatores de produção no exterior
+A Balança Comercial pode sofrer de um déficit ou superávit se, por resultar da junção da balança de bens e de serviços, registrar esses sinais nas importações e exportações de bens e serviços entre os países.
+
+
+6. Finalmente:
+Qual a diferença entre crescimento e desenvolvimento econômico? E como mensurar?
+ O Crescimento Económico é alta do PIB - Produto Interno Bruto, ou seja um aumento da produção da região analisada. 
+Por sua vez, o Desenvolvimento Econômico está relacionado com a melhoria social de alguma forma. 
+Pode se dizer que ambos têm propostas quase parecidas, porém utilizam de algumas variáveis diferentes em seu cálculo.
+
+Todos esses indicadores podem ser analisados em diversos setores, como na educação, saúde, renda, etc. Como citado nas questões acima, o IDH - Índice de Desenvolvimento Humano - é o critério mais recomendado e utilizado para relacionar o desenvolvimento entre alguma economia.
+
